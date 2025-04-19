@@ -1,2 +1,4 @@
 # E-Commerce-Purchase-Prediction
-A comprehensive analysis of e-commerce visitor behavior to predict purchase likelihood
+A comprehensive analysis of e-commerce visitor behavior to predict purchase likelihood. Using machine learning techniques, identified key factors influencing online purchase decisions and developed a predictive model with 92.5% ROC-AUC accuracy.
+The analysis reveals significant patterns in visitor behavior that can be leveraged to optimize conversion rates. Most notably, page value metrics are overwhelmingly the most influential factor in purchase prediction, followed by exit rates and engagement duration. Surprisingly, new visitors convert at nearly twice the rate of returning visitors, and there are strong seasonal patterns with Fall months showing significantly higher conversion rates.
+Based on these insights, developed eight actionable business recommendations with potential to increase conversion rates by 5-12% through targeted interventions.
